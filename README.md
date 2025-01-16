@@ -67,6 +67,3 @@
 1. **Final Testing**
 2. **Launch**
 
----
-
-This structure makes it easy to read and follow through each phase of the project. You can now copy this directly into your README file. Let me know if you need anything else!
