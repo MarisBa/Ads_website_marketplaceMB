@@ -1,6 +1,4 @@
-Here’s your **README** file with proper formatting, including page breaks and sections for better readability:
 
----
 
 # Ads_website_marketplaceMB
 **DatuBazes 3. kursa noslēguma projekts**
